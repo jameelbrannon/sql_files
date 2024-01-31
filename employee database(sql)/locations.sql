@@ -1,0 +1,11 @@
+/*
+-- Query: select F_NAME, L_NAME
+FROM EMPLOYEES
+WHERE ADDRESS LIKE '%ELGIN,IL%'
+LIMIT 0, 1000
+
+-- Date: 2024-01-31 12:16
+*/
+INSERT INTO `` (`F_NAME`,`L_NAME`) VALUES ('Alice','James');
+INSERT INTO `` (`F_NAME`,`L_NAME`) VALUES ('Nancy','Allen');
+INSERT INTO `` (`F_NAME`,`L_NAME`) VALUES ('Ann','Jacob');
